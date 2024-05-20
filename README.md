@@ -18,16 +18,19 @@ Emphasis: Networking, programming, statistics, mathematics, Database Management
 Thesis: Load Balancing within Networks using Ant Colony Optimization
 
 ### Work Experience
+
 Data Analyst @ Unitrust Insurance Company, Ltd. Lagos	May 2020 - September 2023
 At Unitrust Insurance, I served as a data-driven problem solver, bridging the gap between business requirements and technical implementation. My rigorous testing, data analysis, and API optimization streamlined processes and improved user experience.
 - Utilized SQL and Python to analyze large datasets, uncover patterns, and support strategic decision-making. Developed Power BI dashboards to visualize results, leading to 75%+ increase in customer retention and operational efficiency.
 - Applied regression models to forecast sales trends and optimize resource allocation. Translated analytical insights into system design enhancements, contributing to data-driven decision-making across the company.
 - Expertly used pandas and NumPy libraries for complex data cleaning and preprocessing, ensuring accuracy for subsequent analysis and modelling.
 - Collaborated with stakeholders to define KPIs, timelines, and data reporting pipelines. Designed training materials to promote data literacy, enhancing cross-functional collaboration and driving production improvements by 50%.
+  
 Application Analyst @ Noor Takaful Insurance Company, Ltd. Lagos	April 2019 - May 2020
 - Designed, implemented, and managed IT solutions to meet business needs, driving process improvements, enhancing operational efficiency, and supporting strategic goals.
 - Administered critical IT systems and server operations, ensuring the uptime of essential business applications.
 - Collaborated with internal teams and external vendors to optimize IT support, creating a user-centric service environment.
+  
 IT Technical Support Officer @ Industrial and General Insurance P.L.C. Lagos	February 2013 - April 2019
 - Ensured seamless IT operations by proactively testing, maintaining, and upgrading computer systems and infrastructure, minimizing downtime and disruptions.
 - Managed and configured IT systems, software, and user accounts, optimizing functionality and productivity for end-users.
