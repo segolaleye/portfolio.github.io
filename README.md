@@ -1,6 +1,11 @@
 # Data Scientist
 A data scientist with 10+ years of IT experience, combining a Computer Science background with a passion for extracting actionable insights from complex data. I'm proficient in Python, SQL, and machine learning, and have a proven track record of delivering strategic data-driven solutions. I'm skilled in requirement gathering, advanced analytics, data reporting, and collaborating with cross-functional teams to drive process improvements.
 
+#### Skills
+- Data Analysis, Data Modelling, Machine Learning, Database Management
+- IT security, Helpdesk Management, ERP implementation
+- Collaboration, Communication, Problem-Solving, Business Analysis, Problem Solving
+
 ## Education
 **MSc Artificial Intelligence and Data Science | University of Hull	(Sept 2023 - Present)**
 Data Science: Cleaning, visualization, SQL, association pattern mining, clustering, outlier detection, and classification techniques.
